@@ -4,10 +4,6 @@
 
 ---
 
-![Block Diagram](block_diagram.png)
-
----
-
 ## 📌 Overview
 
 This project implements an Automatic Vehicle Headlight Control System using an STM32 microcontroller.
@@ -65,16 +61,6 @@ Brightness is dynamically controlled using PWM to ensure optimal illumination wh
 | Day       | Bright   | 0%             | OFF             |
 | Evening   | Medium   | 40%            | DIM             |
 | Night     | Dark     | 100%           | FULL ON         |
-
----
-
-## 📷 Results
-
-(Add your result image here)
-
-Example:
-
-![System Output](results.jpg)
 
 ---
 
